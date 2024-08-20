@@ -1,0 +1,33 @@
+Lab questions for DAA
+
+Lab-1
+
+1. Implement the Euclid’s algorithm to find the GCD of two numbers.
+2. Write the proper code to sort the array 25, 57, 48, 37, 12, 92, 86, 33 using insertion sort, 
+3.Implement the binary search algorithm to search 31 in given array 10 , 14, 19, 26, 31, 42, 44
+
+Lab-2
+
+4. Implement the Min-Max algorithm to find the minimum and maximum number in the the given array 5, 7 , 3, 4, 9 , 12 , 6 , 2
+5. Write a suitable code to implement randomized quick sort,
+6. Write a proper code to sort 7 4 10 8 3 1 using selection sort.
+
+Lab-3
+
+7. Write a code to implement heap sort.
+8. Write suitable code to implement merge sort.
+9. Implement Huffman coding in C/C++.
+10.Write a suitable code to sort 7 4 10 8 3 1 using bubble sort.
+
+Lab-4
+
+11. Write the code to implement Kruskal’s Algorithm.
+12. Write a code to implement Prim’s Algorithm.
+13. Write a code to implement Dijkstra’s Algorithm.
+
+Lab-5
+
+14. Write a code to implement fractional knapsack problem.
+15. Write a code to implement job sequencing algorithm with deadline.
+16. Implement N-Queen problem.
+17. WAP to implement vertex cover problem.
